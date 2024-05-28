@@ -1,0 +1,33 @@
+@media (min-width:0px) and (max-width:767px) {
+    .memu{
+        display: flex;
+        flex-direction: column-reverse;
+        
+    }
+    
+    .skillme{
+        flex-direction: column;
+        width: 50%;
+    }
+    .skillyou{
+        margin-top: 25px;
+    }
+    .minilogo{
+        margin-top: 180px;
+    }
+    .big{
+        font-size: 35px;
+    }
+    .notbig{
+        width: 91%;
+        text-align: center;
+    }
+    .small{
+        width: 80%;
+    }
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

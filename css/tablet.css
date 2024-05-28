@@ -1,0 +1,9 @@
+@media (min-width:768px) and (max-width:1023px){
+    .skillme{
+        flex-wrap: wrap;
+        width: 450px;
+    }
+    .skillyou{
+        margin-top: 40px;
+    }
+}
