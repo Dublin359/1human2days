@@ -2,12 +2,10 @@
     .memu{
         display: flex;
         flex-direction: column-reverse;
-        
     }
     
     .skillme{
         flex-direction: column;
-        width: 50%;
     }
     .skillyou{
         margin-top: 25px;

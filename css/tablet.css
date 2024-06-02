@@ -2,8 +2,10 @@
     .skillme{
         flex-wrap: wrap;
         width: 450px;
+        padding: 0;
     }
     .skillyou{
         margin-top: 40px;
+
     }
 }
